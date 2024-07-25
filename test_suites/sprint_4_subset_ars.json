@@ -1,0 +1,159 @@
+{
+    "id": "sprint_4_tests",
+    "name": "sprint_4_tests",
+    "description": "Sprint 4 TopAnswer tests",
+    "tags": [],
+    "test_runner_settings": [],
+    "test_metadata": {
+        "id": "1",
+        "name": null,
+        "description": "Sprint 4 TopAnswer tests",
+        "tags": [],
+        "test_runner_settings": [],
+        "test_source": "SMURF",
+        "test_reference": null,
+        "test_objective": "AcceptanceTest",
+        "test_annotations": []
+    },
+    "test_persona": "All",
+    "test_cases": {
+        "TestCase_0": {
+            "id": "TestCase_0",
+            "name": "what treats MONDO:0005301",
+            "description": "TopAnswer: fingolimod treats Multiple Sclerosis; TopAnswer: natalizumab treats Multiple Sclerosis",
+            "tags": [],
+            "test_runner_settings": [
+                "inferred"
+            ],
+            "query_type": null,
+            "test_assets": [
+                {
+                    "id": "Asset_8",
+                    "name": "TopAnswer: fingolimod treats Multiple Sclerosis",
+                    "description": "TopAnswer: fingolimod treats Multiple Sclerosis",
+                    "tags": [],
+                    "test_runner_settings": [
+                        "inferred"
+                    ],
+                    "input_id": "MONDO:0005301",
+                    "input_name": "Multiple Sclerosis",
+                    "input_category": "biolink:Disease",
+                    "predicate_id": "biolink:treats",
+                    "predicate_name": "treats",
+                    "output_id": "PUBCHEM.COMPOUND:107970",
+                    "output_name": "fingolimod",
+                    "output_category": "biolink:ChemicalEntity",
+                    "association": null,
+                    "qualifiers": [
+                        {
+                            "parameter": "biolink_qualified_predicate",
+                            "value": "biolink:treats"
+                        },
+                        {
+                            "parameter": "biolink_object_aspect_qualifier",
+                            "value": ""
+                        },
+                        {
+                            "parameter": "biolink_object_direction_qualifier",
+                            "value": ""
+                        }
+                    ],
+                    "expected_output": "TopAnswer",
+                    "test_issue": null,
+                    "semantic_severity": null,
+                    "in_v1": null,
+                    "well_known": false,
+                    "test_reference": null,
+                    "test_metadata": {
+                        "id": "1",
+                        "name": null,
+                        "description": null,
+                        "tags": [],
+                        "test_runner_settings": [],
+                        "test_source": "SMURF",
+                        "test_reference": null,
+                        "test_objective": "AcceptanceTest",
+                        "test_annotations": []
+                    }
+                },
+                {
+                    "id": "Asset_9",
+                    "name": "TopAnswer: natalizumab treats Multiple Sclerosis",
+                    "description": "TopAnswer: natalizumab treats Multiple Sclerosis",
+                    "tags": [],
+                    "test_runner_settings": [
+                        "inferred"
+                    ],
+                    "input_id": "MONDO:0005301",
+                    "input_name": "Multiple Sclerosis",
+                    "input_category": "biolink:Disease",
+                    "predicate_id": "biolink:treats",
+                    "predicate_name": "treats",
+                    "output_id": "MESH:D000069442",
+                    "output_name": "natalizumab",
+                    "output_category": "biolink:ChemicalEntity",
+                    "association": null,
+                    "qualifiers": [
+                        {
+                            "parameter": "biolink_qualified_predicate",
+                            "value": "biolink:treats"
+                        },
+                        {
+                            "parameter": "biolink_object_aspect_qualifier",
+                            "value": ""
+                        },
+                        {
+                            "parameter": "biolink_object_direction_qualifier",
+                            "value": ""
+                        }
+                    ],
+                    "expected_output": "TopAnswer",
+                    "test_issue": null,
+                    "semantic_severity": null,
+                    "in_v1": null,
+                    "well_known": false,
+                    "test_reference": null,
+                    "test_metadata": {
+                        "id": "1",
+                        "name": null,
+                        "description": null,
+                        "tags": [],
+                        "test_runner_settings": [],
+                        "test_source": "SMURF",
+                        "test_reference": null,
+                        "test_objective": "AcceptanceTest",
+                        "test_annotations": []
+                    }
+                }
+            ],
+            "preconditions": [],
+            "trapi_template": null,
+            "test_case_objective": "AcceptanceTest",
+            "test_case_source": null,
+            "test_case_predicate_name": "treats",
+            "test_case_predicate_id": "biolink:treats",
+            "test_case_input_id": "MONDO:0005301",
+            "qualifiers": [
+                {
+                    "parameter": "biolink_qualified_predicate",
+                    "value": "biolink:treats"
+                },
+                {
+                    "parameter": "biolink_object_aspect_qualifier",
+                    "value": ""
+                },
+                {
+                    "parameter": "biolink_object_direction_qualifier",
+                    "value": ""
+                }
+            ],
+            "input_category": "biolink:Disease",
+            "output_category": "biolink:ChemicalEntity",
+            "components": [
+                "ars"
+            ],
+            "test_env": "ci"
+        },
+    },
+    "test_suite_specification": null
+}
