@@ -150,7 +150,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -434,7 +434,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -522,7 +522,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -708,7 +708,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -992,7 +992,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -1080,7 +1080,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -1315,7 +1315,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -1452,7 +1452,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -1638,7 +1638,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -2216,7 +2216,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -2402,7 +2402,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -2686,7 +2686,7 @@
             "input_category": "biolink:Gene",
             "output_category": null,
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -2774,7 +2774,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -3352,7 +3352,7 @@
             "input_category": "biolink:Gene",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -3440,7 +3440,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -3528,7 +3528,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -3616,7 +3616,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -3704,7 +3704,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -3792,7 +3792,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -3880,7 +3880,7 @@
             "input_category": "biolink:Gene",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -3968,7 +3968,7 @@
             "input_category": "biolink:Gene",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -4056,7 +4056,7 @@
             "input_category": "biolink:Gene",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -4487,7 +4487,7 @@
             "input_category": "biolink:Gene",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -4820,7 +4820,7 @@
             "input_category": "biolink:Gene",
             "output_category": null,
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -5202,7 +5202,7 @@
             "input_category": "biolink:Gene",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -5290,7 +5290,7 @@
             "input_category": "biolink:Gene",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -5378,7 +5378,7 @@
             "input_category": "biolink:Disease",
             "output_category": null,
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -5466,7 +5466,7 @@
             "input_category": "biolink:Disease",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -5701,7 +5701,7 @@
             "input_category": "biolink:Gene",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -5838,7 +5838,7 @@
             "input_category": "biolink:ChemicalEntity",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -6122,7 +6122,7 @@
             "input_category": "biolink:ChemicalEntity",
             "output_category": null,
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -6210,7 +6210,7 @@
             "input_category": "biolink:ChemicalEntity",
             "output_category": "biolink:Gene",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -6347,7 +6347,7 @@
             "input_category": "biolink:ChemicalEntity",
             "output_category": "biolink:Gene",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -6435,7 +6435,7 @@
             "input_category": "biolink:ChemicalEntity",
             "output_category": "biolink:Gene",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -6523,7 +6523,7 @@
             "input_category": "biolink:ChemicalEntity",
             "output_category": "biolink:Gene",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         },
@@ -6611,7 +6611,7 @@
             "input_category": "biolink:Gene",
             "output_category": "biolink:ChemicalEntity",
             "components": [
-                "ars"
+                "ara"
             ],
             "test_env": "ci"
         }
